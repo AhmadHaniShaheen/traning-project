@@ -1,0 +1,190 @@
+
+@media (max-width: 575.98px) {
+    header {
+        background:none;
+        height: 760px;
+        margin-left: 30px;
+        margin-bottom: 10%;
+    }
+    .title {
+        width: 100%;
+        text-align: center;
+    }
+    .text1 {
+        width: 100%;
+        height: 70vh;
+        padding: 20px;
+    }
+    .shape {
+        width: 20px;
+        height: 20px;
+    }
+    .sec2{
+        display: block;
+        direction: rtl;
+        height: 800px;
+        margin-bottom: 10%;
+        flex-direction: column;
+    }
+    .imgforsec2 {
+        width: 100%;
+        object-fit: cover;
+        height: 400px;
+    }
+    .allboxs{
+        display: flex;
+        margin: 10px;
+        flex-direction: column;
+    }
+    .box{
+        flex-basis: 90%;
+        margin: 5%;
+        text-align: center;
+    }
+    .sec4{
+        display: flex;
+       flex-direction: column;
+        margin: 10px;
+    }
+    .textforsec4{
+        flex-basis: 100s%;
+    }
+    .imgsec4{
+        height: 400px;
+        width: 100%;
+        margin: 10px;
+    }
+    .sec5{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+       
+    }
+    .textforsec5{
+        width: 90%;
+        margin: 20px;
+        height: 300px;
+    }
+    .imagforsec5{
+        width: 90%;
+        height: 400px;
+       
+    }
+    .sec6{
+        display: flex;
+        flex-direction: column;
+    }
+    .form6{
+        width: 100%;
+    
+    }
+    .imgforsec6{
+        width: 100%;
+        height: 400px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    header {
+        height: 760px;
+        margin-left: 30px;
+        margin-bottom: 10%;
+    }
+    .title {
+        width: 100%;
+        text-align: center;
+    }
+    .text1 {
+        width: 100%;
+        height: 70vh;
+        padding: 20px;
+    }
+    .shape {
+        width: 20px;
+        height: 20px;
+    }
+    .sec2 {
+        display: flex;
+        direction: rtl;
+        height: 400px;
+        margin-bottom: 20%;
+    }
+    .allboxs {
+        display: flex;
+        margin-left: 10px;
+    }
+    .sec4 {
+        display: flex;
+        margin: 10px;
+        flex-direction: column;
+    }
+    .imgsec4 {
+        height: 400px;
+        justify-content: center;
+    }
+    .but1 {
+        width: 80%;
+        height: 30px;
+        border: 1px solid black;
+        margin: 5px;
+        padding: 5px;
+    }
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    header {
+        height: 760px;
+        margin-left: 30px;
+        margin-bottom: 10%;
+    }
+    .title {
+        width: 100%;
+        text-align: center;
+    }
+    .text1 {
+        width: 100%;
+        height: 70vh;
+        padding: 20px;
+    }
+    .shape {
+        width: 20px;
+        height: 20px;
+    }
+    .sec4 {
+        display: flex;
+        margin: 10px;
+        flex-direction: column;
+    }
+    .imgsec4 {
+        height: 400px;
+        justify-content: center;
+    }
+    .two {
+        margin-bottom: 10px;
+    }
+ }
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    header {
+        height: 760px;
+        margin-left: 30px;
+        margin-bottom: 10%;
+    }
+    .title {
+        width: 100%;
+        text-align: center;
+    }
+    .text1 {
+        width: 100%;
+        height: 70vh;
+        padding: 20px;
+    }
+    .shape {
+        width: 20px;
+        height: 20px;
+    }
+ }
+
+
+@media (min-width: 1200px) {  }
